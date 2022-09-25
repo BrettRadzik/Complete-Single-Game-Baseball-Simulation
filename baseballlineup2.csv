@@ -1,0 +1,542 @@
+Team,BattingNumber,Player,Hand
+Angels,1,Martin Maldonado,R
+Angels,2,C.J. Cron,L
+Angels,3,Danny Espinosa,S
+Angels,4,Andrelton Simmons,R
+Angels,5,Yunel Escobar,R
+Angels,6,Ben Revere,L
+Angels,7,Mike Trout,R
+Angels,8,Kole Calhoun,L
+Angels,9,Albert Pujols,R
+Angels,10,Luis Valbuena,L
+Angels,11,Cameron Maybin,R
+Angels,12,Cliff Pennington,S
+Angels,13,Jefry Marte,R
+Angels,14,Justin Upton,R
+Angels,15,LowRep,S
+Angels,16,MidRepR,R
+Angels,17,MidRepL,L
+Angels,18,PitcherA,S
+As,1,Khris Davis,R
+As,2,Jed Lowrie,S
+As,3,Ryon Healy,R
+As,4,Matt Joyce,L
+As,5,Marcus Semien,R
+As,6,Yonder Alonso,L
+As,7,Rajai Davis,R
+As,8,Matt Chapman,R
+As,9,Chad Pinder,R
+As,10,Bruce Maxwell,L
+As,11,Adam Rosales,R
+As,12,Matt Olsen,L
+As,13,Trevor Plouffe,R
+As,14,Mark Canha,R
+As,15,Stephen Vogt,L
+As,16,LowRep2,S
+As,17,MidRepR2,R
+As,18,MidRepL2,L
+As,19,PitcherB,S
+Astros,1,Jose Altuve,R
+Astros,2,George Springer,R
+Astros,3,Alex Bregman,R
+Astros,4,Yuli Gurriel,R
+Astros,5,Josh Reddick,L
+Astros,6,Marwin Gonzalez,S
+Astros,7,Carlos Beltran,S
+Astros,8,Carlos Correa,R
+Astros,9,Brian McCann,L
+Astros,10,Evan Gattis,R
+Astros,11,Jake Marisnick,R
+Astros,12,Nori Aoki,L
+Astros,13,Derek Fisher,L
+Astros,14,J.D. Davis,R
+Astros,15,Cameron Maybin,R
+Astros,16,LowRep2,S
+Astros,17,MidRepR2,R
+Astros,18,MidRepL2,L
+Astros,19,PitcherB,S
+BlueJays,1,Jose Bautista,R
+BlueJays,2,Justin Smoak,S
+BlueJays,3,Kevin Pillar,R
+BlueJays,4,Kendrys Morales,S
+BlueJays,5,Josh Donaldson,R
+BlueJays,6,Ryan Goins,L
+BlueJays,7,Russell Martin,R
+BlueJays,8,Darwin Barney,R
+BlueJays,9,Steave Pearce,R
+BlueJays,10,Ezequiel Carrera,L
+BlueJays,11,Troy Tulowizki,R
+BlueJays,12,Devon Travis,R
+BlueJays,13,Luke Maile,R
+BlueJays,14,Teoscar Hernandez,R
+BlueJays,15,LowRep,S
+BlueJays,16,MidRepR,R
+BlueJays,17,MidRepL,L
+BlueJays,18,PitcherA,S
+Braves,1,Ender Inciarte,L
+Braves,2,Nick Markakis,L
+Braves,3,Dansby Swanson,R
+Braves,4,Freddie Freeman,L
+Braves,5,Brandon Phillips,R
+Braves,6,Matt Kemp,R
+Braves,7,Tyler Flowers,R
+Braves,8,Matt Adams,L
+Braves,9,Kurt Suzuki,E
+Braves,10,John Camargo,S
+Braves,11,Ozzie Albies,S
+Braves,12,Jace Peterson,L
+Braves,13,Adonis Garcia,R
+Braves,14,LowRep2,S
+Braves,15,MidRepR2,R
+Braves,16,MidRepL2,L
+Braves,17,PitcherB,S
+Brewers,1,Domingo Santana,R
+Brewers,2,Travis Shaw,L
+Brewers,3,Eric Thames,L
+Brewers,4,Orlando Arcia,R
+Brewers,5,Keon Broxton,R
+Brewers,6,Hernan Perez,R
+Brewers,7,Jonathan Villar,S
+Brewers,8,Ryan Braun,R
+Brewers,9,Manyy Pina,R
+Brewers,10,Jesus Aguilar,R
+Brewers,11,Eric Sogard,L
+Brewers,12,Jett Bandy,R
+Brewers,13,Neil Walker,S
+Brewers,14,LowRep,S
+Brewers,15,MidRepR,R
+Brewers,16,MidRepL,L
+Brewers,17,PitcherA,S
+Cardinals,1,Matt Carpenter,L
+Cardinals,2,Yadier Molina,R
+Cardinals,3,Tommy Pham,R
+Cardinals,4,Dexter Fowler,S
+Cardinals,5,Jedd Gyorko,R
+Cardinals,6,Paul DeJong,R
+Cardinals,7,Randal Grichuk,R
+Cardinals,8,Kolten Wong,S
+Cardinals,9,Stephen Piscotty,R
+Cardinals,10,Jose Martinez,R
+Cardinals,11,Aledmys Diaz,R
+Cardinals,12,Greg Garcia,L
+Cardinals,13,LowRep2,S
+Cardinals,14,MidRepR2,R
+Cardinals,15,MidRepL2,L
+Cardinals,16,PitcherB,S
+Cubs,1,Anthony Rizzo,L
+Cubs,2,Kris Bryant,R
+Cubs,3,Javier Baez,R
+Cubs,4,Ben Zobrist,S
+Cubs,5,Kyle Schwarber,L
+Cubs,6,Jason Heyward,L
+Cubs,7,Jon Jay,L
+Cubs,8,Wilson Contreras,R
+Cubs,9,Ian Happ,S
+Cubs,10,Addison Russell,R
+Cubs,11,Albert Almora,R
+Cubs,12,Tommy La Stella,L
+Cubs,13,Miguel Montero,L
+Cubs,14,Alex Avila,L
+Cubs,15,LowRep,S
+Cubs,16,MidRepR,R
+Cubs,17,MidRepL,L
+Cubs,18,PitcherA,S
+Diamondbacks,1,Paul Goldschmidt,R
+Diamondbacks,2,Jake Lamb,L
+Diamondbacks,3,David Peralta,L
+Diamondbacks,4,Brandon Drury,R
+Diamondbacks,5,AJ Pollock,R
+Diamondbacks,6,Daniel Descalso,L
+Diamondbacks,7,Chris Owings,R
+Diamondbacks,8,Chris Iannetta,R
+Diamondbacks,9,J.D. Martinez,R
+Diamondbacks,10,Gregor Blanco,L
+Diamondbacks,11,Chris Hermann,L
+Diamondbacks,12,Ketel Marte,S
+Diamondbacks,13,Jeff Mathis,R
+Diamondbacks,14,Yasmany Tomas,R
+Diamondbacks,15,Nick Ahmed,R
+Diamondbacks,16,LowRep,S
+Diamondbacks,17,MidRepR,R
+Diamondbacks,18,MidRepL,L
+Diamondbacks,19,PitcherA,S
+Dodgers,1,Enrique Hernandez,R
+Dodgers,2,Austin Barnes,R
+Dodgers,3,Chris Taylor,R
+Dodgers,4,Matt Kemp,R
+Dodgers,5,Manny Machado,R
+Dodgers,6,Kyle Farmer,R
+Dodgers,7,Tim Locastro,R
+Dodgers,8,Cody Bellinger,L
+Dodgers,9,Justin Turner,R
+Dodgers,10,Max Muncy,L
+Dodgers,11,Yasmani Grandal,S
+Dodgers,12,Yasiel Puig,R
+Dodgers,13,Brian Dozier,R
+Dodgers,14,Joc Pederson,L
+Dodgers,15,Chase Utley,L
+Dodgers,16,Logan Forsythe,R
+Dodgers,17,Corey Seager,L
+Dodgers,18,LowRep2,S
+Dodgers,19,MidRepR2,R
+Dodgers,20,MidRepL2,L
+Dodgers,21,PitcherB,S
+Giants,1,Buster Posey,R
+Giants,2,Brandon Belt,L
+Giants,3,Joe Panik,L
+Giants,4,Brandon Crawford,L
+Giants,5,Eduardo Nunez,R
+Giants,6,Jarrett Parker,L
+Giants,7,Denard Span,L
+Giants,8,Hunter Pence,R
+Giants,9,Gorkys Hernandez,R
+Giants,10,Nick Hundley,R
+Giants,11,Kelby Tomlinson,R
+Giants,12,Pablo Sandoval,S
+Giants,13,Ryder Jones,L
+Giants,14,Christian Arroyo,R
+Giants,15,LowRep2,S
+Giants,16,MidRepR2,R
+Giants,17,MidRepL2,L
+Giants,18,PitcherB,S
+Indians,1,Francisco Lindor,S
+Indians,2,Edwin Encarnacion,R
+Indians,3,Carlos Santana,S
+Indians,4,Jose Ramirez,S
+Indians,5,Yan Gomes,R
+Indians,6,Michael Brantly,L
+Indians,7,Jason Kipnis,L
+Indians,8,Bradley Zimmer,L
+Indians,9,Austin Jackson,R
+Indians,10,Lonnie Chisenhall,L
+Indians,11,Roberto Perez,R
+Indians,12,Abraham Almonte,S
+Indians,13,Brnadon Guyer,R
+Indians,14,Yandy Diaz,R
+Indians,15,Jay Bruce,L
+Indians,16,Gio Ushela,R
+Indians,17,Erik Gonzalez,R
+Indians,18,LowRep2,S
+Indians,19,MidRepR2,R
+Indians,20,MidRepL2,L
+Indians,21,PitcherB,S
+Mariners,1,Kyle Seager,L
+Mariners,2,Robinson Cano,L
+Mariners,3,Nelson Cruz,R
+Mariners,4,Jean Segura,R
+Mariners,5,Ben Gamel,L
+Mariners,6,Danny Valencia,R
+Mariners,7,Mike Zunino,R
+Mariners,8,Guillermo Heredia,R
+Mariners,9,Mitch Haniger,R
+Mariners,10,Jarrod Dyson,L
+Mariners,11,Taylor Motter,R
+Mariners,12,Yonder Alonso,L
+Mariners,13,Carlos Ruiz,R
+Mariners,14,Leonys Matin,L
+Mariners,15,LowRep,S
+Mariners,16,MidRepR,R
+Mariners,17,MidRepL,L
+Mariners,18,PitcherA,S
+Marlins,1,J.T. Realmuto,R
+Marlins,2,Justin Bour,L
+Marlins,3,Dee Gordon,L
+Marlins,4,Miguel Rojas,R
+Marlins,5,Derek Dietrich,L
+Marlins,6,Marcell Ozuna,R
+Marlins,7,Christian Yelich,L
+Marlins,8,Giancarlo Stanton,R
+Marlins,9,JT Riddle,L
+Marlins,10,Ichiro Suzuki,L
+Marlins,11,Tyler Moore,R
+Marlins,12,A.J. Ellis,R
+Marlins,13,LowRep2,S
+Marlins,14,MidRepR2,R
+Marlins,15,MidRepL2,L
+Marlins,16,PitcherB,S
+Mets,1,Jose Reyes,S
+Mets,2,Asdrubal Cabrera,S
+Mets,3,Jay Bruce,L
+Mets,4,Michael Conforto,L
+Mets,5,Curtis Granderson,L
+Mets,6,Travis d'Arnaud,R
+Mets,7,Wilmer Flores,R
+Mets,8,Yoenis Cespedes,R
+Mets,9,Neil Walker,S
+Mets,10,Lucas Duda,L
+Mets,11,Juan Lagares,R
+Mets,12,T.J. Rivera,R
+Mets,13,Brandon Nimmo,L
+Mets,14,Rene Rivera,R
+Mets,15,LowRep,S
+Mets,16,MidRepR,R
+Mets,17,MidRepL,L
+Mets,18,PitcherA,S
+Nationals,1,Anthony Rendon,R
+Nationals,2,Daniel Murphy,L
+Nationals,3,Ryan Zimmerman,R
+Nationals,4,Bryce Harper,L
+Nationals,5,Matt Wieters,S
+Nationals,6,Trea Turner,R
+Nationals,7,Michael Taylor,R
+Nationals,8,Wilmer Difo,S
+Nationals,9,Adam Lind,L
+Nationals,10,Jayson Werth,R
+Nationals,11,Brian Goodwin,L
+Nationals,12,Adam Eaton,L
+Nationals,13,LowRep2,S
+Nationals,14,MidRepR2,R
+Nationals,15,MidRepL2,L
+Nationals,16,PitcherB,S
+Orioles,1,Manny Machado,R
+Orioles,2,Jonathan Schoop,R
+Orioles,3,Adam Jones,R
+Orioles,4,Mark Trumbo,R
+Orioles,5,Trey Mancini,R
+Orioles,6,Chris Davis,L
+Orioles,7,Seth Smith,L
+Orioles,8,Welington Castillo,R
+Orioles,9,Joey Rickard,R
+Orioles,10,J.J. Hardy,R
+Orioles,11,Caleb Joseph,R
+Orioles,12,Tim Beckham,R
+Orioles,13,Hyun Soo Kim,L
+Orioles,14,Ruben Tejada,R
+Orioles,15,Craig Gentry,R
+Orioles,16,LowRep,S
+Orioles,17,MidRepR,R
+Orioles,18,MidRepL,L
+Orioles,19,PitcherA,S
+Padres,1,Will Myers,R
+Padres,2,Manuel Margot,R
+Padres,3,Yangervis Solarte,S
+Padres,4,Cory Spangenberg,L
+Padres,5,Hunter Renfroe,R
+Padres,6,Austin Hedges,R
+Padres,7,Erick Aybar,S
+Padres,8,Jose Pirela,R
+Padres,9,Carlos Asuaje,L
+Padres,10,Allen Cordoba,R
+Padres,11,Matt Szczur,R
+Padres,12,Ryan Schimpf,L
+Padres,13,Jabari Blash,R
+Padres,14,Hector Sanchez,S
+Padres,15,LowRep2,S
+Padres,16,MidRepR2,R
+Padres,17,MidRepL2,L
+Padres,18,PitcherB,S
+Phillies,1,Freddy Galvis,S
+Phillies,2,Maikel Franco,R
+Phillies,3,Cesar Hernandez,S
+Phillies,4,Odubel Herrera,L
+Phillies,5,Tommy Joseph,R
+Phillies,6,Aaron Altherr,R
+Phillies,7,Nick Williams,L
+Phillies,8,Cameron Rupp,R
+Phillies,9,Daniel Nava,S
+Phillies,10,Michael Saunders,L
+Phillies,11,Rhys Hoskins,R
+Phillies,12,Andrew Knapp,S
+Phillies,13,Howie Kendrick,R
+Phillies,14,Andres Blanco,S
+Phillies,15,Jorge Alfaro,R
+Phillies,16,LowRep2,S
+Phillies,17,MidRepR2,R
+Phillies,18,MidRepL2,L
+Phillies,19,PitcherB,S
+Pirates,1,Andrew McCutchen,R
+Pirates,2,Josh Bell,S
+Pirates,3,Jordy Mercer,R
+Pirates,4,Josh Harrison,R
+Pirates,5,David Freese,R
+Pirates,6,Adam Frazier,L
+Pirates,7,Gregory Polanco,L
+Pirates,8,Starling Marte,R
+Pirates,9,Francisco Cervelli,R
+Pirates,10,John Jaso,L
+Pirates,11,Jose Osuna,R
+Pirates,12,Elias Diaz,R
+Pirates,13,LowRep,S
+Pirates,14,MidRepR,R
+Pirates,15,MidRepL,L
+Pirates,16,PitcherA,S
+Rangers,1,Robinson Chirinos,
+Rangers,2,Mike Napoli,
+Rangers,3,Rougned Odor,
+Rangers,4,Elvis Andrus,
+Rangers,5,Joey Gallo,
+Rangers,6,Delino DeShields,
+Rangers,7,Carlos Gomez,
+Rangers,8,Nomar Mazara,
+Rangers,9,Shin-Soo Choo,
+Rangers,10,Adrian Beltre,
+Rangers,11,Jonathan Lucroy,
+Rangers,12,Ryan Rua,
+Rangers,13,LowRep2,S
+Rangers,14,MidRepR2,R
+Rangers,15,MidRepL2,L
+Rangers,16,PitcherB,S
+Rays,1,Evan Longoria,R
+Rays,2,Corey Dickerson,L
+Rays,3,Steven Souza,R
+Rays,4,Logan Morrison,L
+Rays,5,Kevin Kiermaier,L
+Rays,6,Brad Miller,L
+Rays,7,Tim Beckham,R
+Rays,8,Mallex Smith,L
+Rays,9,Adeiny Hechavarria,R
+Rays,10,Daniel Robertson,R
+Rays,11,Wilson Ramos,R
+Rays,12,Peter Bourjos,R
+Rays,13,Lucas Duda,L
+Rays,14,Derek Norris,R
+Rays,15,Jesus Sucre,R
+Rays,16,Colby Ramus,L
+Rays,17,LowRep,S
+Rays,18,MidRepR,R
+Rays,19,MidRepL,L
+Rays,20,PitcherA,S
+Reds,1,Joey Votto,L
+Reds,2,Adam Duvall,R
+Reds,3,Billy Hamilton,S
+Reds,4,Eugenio Suarez,R
+Reds,5,Scott Schebler,L
+Reds,6,Jose Peraza,R
+Reds,7,Scooter Gennett,L
+Reds,8,Tucker Barnhart,L
+Reds,9,Patrick Kivlehan,R
+Reds,10,Devin Mesoraco,R
+Reds,11,Jesse Winker,L
+Reds,12,Zach Cozart,R
+Reds,13,LowRep,S
+Reds,14,MidRepR,R
+Reds,15,MidRepL,L
+Reds,16,PitcherA,S
+RedSox,1,Mookie Betts,R
+RedSox,2,Andrew Benintendi,L
+RedSox,3,Xander Bogaerts,R
+RedSox,4,Mitch Moreland,L
+RedSox,5,Hanley Ramirez,R
+RedSox,6,Jackie Bradley Jr.,L
+RedSox,7,Dustin Pedroia,R
+RedSox,8,Christian Vazquez,R
+RedSox,9,Sandy Leon,S
+RedSox,10,Chris Young,R
+RedSox,11,Rafael Devers,L
+RedSox,12,Deven Marrero,R
+RedSox,13,Eduardo Nunez,R
+RedSox,14,Brock Holt,L
+RedSox,15,LowRep,S
+RedSox,16,MidRepR,R
+RedSox,17,MidRepL,L
+RedSox,18,PitcherA,S
+Rockies,1,Charlie Blackmon,L
+Rockies,2,DJ LeMahieu,R
+Rockies,3,Nolan Arenado,R
+Rockies,4,Mark Reynolds,R
+Rockies,5,Trevor Story,R
+Rockies,6,Carlos Gonzalez,L
+Rockies,7,Gerado Parra,L
+Rockies,8,Ian Desmond,R
+Rockies,9,Tony Wolters,L
+Rockies,10,Pat Valaika,R
+Rockies,11,Alexi Amarista,L
+Rockies,12,Jonathan Lucroy,R
+Rockies,13,Raimel Tapia,L
+Rockies,14,Ryan Hanigan,R
+Rockies,15,LowRep,S
+Rockies,16,MidRepR,R
+Rockies,17,MidRepL,L
+Rockies,18,PitcherA,S
+Royals,1,Salvador Perez,R
+Royals,2,Eric Hosmer,L
+Royals,3,Whit Merrifield,R
+Royals,4,Alcides Escobar,R
+Royals,5,Mike Moustakas,L
+Royals,6,Alex Gordon,L
+Royals,7,Lorenzo Cain,R
+Royals,8,Jorge Bonifacio,R
+Royals,9,Brandon Moss,L
+Royals,10,Melk Cabrera,S
+Royals,11,Drew Butera,R
+Royals,12,Chelor Cuthbert,R
+Royals,13,Jorge Soler,R
+Royals,14,LowRep2,S
+Royals,15,MidRepR2,R
+Royals,16,MidRepL2,L
+Royals,17,PitcherB,S
+Tigers,1,James McCann,R
+Tigers,2,Miguel Cabrera,R
+Tigers,3,Ian Kinsler,R
+Tigers,4,Jose Iglesias,R
+Tigers,5,Nick Castellanos,R
+Tigers,6,Justin Upton,R
+Tigers,7,Mikie Mahtook,R
+Tigers,8,J.D. Martinez,R
+Tigers,9,Victor Martinez,S
+Tigers,10,Andrew Romine,S
+Tigers,11,Alex Presley,L
+Tigers,12,Alex Avila,L
+Tigers,13,John Hicks,R
+Tigers,14,JaCoby Jones,R
+Tigers,15,LowRep,S
+Tigers,16,MidRepR,R
+Tigers,17,MidRepL,L
+Tigers,18,PitcherA,S
+Twins,1,Jason Castro,L
+Twins,2,Joe Mauer,L
+Twins,3,Brian Dozier,R
+Twins,4,Jorge Polanco,S
+Twins,5,Miguel Sano,R
+Twins,6,Eddie Rosario,L
+Twins,7,Byron Buxton,R
+Twins,8,Max Kepler,L
+Twins,9,Robbie Grossman,S
+Twins,10,Eduardo Escobar,S
+Twins,11,Kennys Vargas,S
+Twins,12,Chris Gimenez,R
+Twins,13,Ehire Adrianza,S
+Twins,14,Zack Granite,L
+Twins,15,LowRep,S
+Twins,16,MidRepR,R
+Twins,17,MidRepL,L
+Twins,18,PitcherA,S
+WhiteSox,1,Omar Narvaez,L
+WhiteSox,2,Jose Abreu,R
+WhiteSox,3,Yolmer Sanchez,S
+WhiteSox,4,Tim Anderson,R
+WhiteSox,5,Todd Frazier,R
+WhiteSox,6,Melk Cabrera,L
+WhiteSox,7,Adam Engel,R
+WhiteSox,8,Avisail Garcia,R
+WhiteSox,9,Matt Davidson,R
+WhiteSox,10,Leury Garcia,S
+WhiteSox,11,Kevan Smith,R
+WhiteSox,12,Tyler Saladino,R
+WhiteSox,13,Yoan Moncada,S
+WhiteSox,14,Alen Hanson,S
+WhiteSox,15,Nicky Delmonico,L
+WhiteSox,16,LowRep2,S
+WhiteSox,17,MidRepR2,R
+WhiteSox,18,MidRepL2,L
+WhiteSox,19,PitcherB,S
+Yankees,1,Aaron Judge,R
+Yankees,2,Jacoby Ellsbury,S
+Yankees,3,Matt Holliday,R
+Yankees,4,Brett Gardner,L
+Yankees,5,Didi Gregorius,L
+Yankees,6,Gary Sanchez,R
+Yankees,7,Greg Bird,L
+Yankees,8,Starlin Castro,R
+Yankees,9,Aaron Hicks,S
+Yankees,10,Todd Frazier,R
+Yankees,11,Chase Headley,S
+Yankees,12,Austin Romie,R
+Yankees,13,Ji-Man Choi,L
+Yankees,14,Miguel Andujar,R
+Yankees,15,Ronald Torreyes,R
+Yankees,16,Tyler Austin,R
+Yankees,17,LowRep,S
+Yankees,18,MidRepR,R
+Yankees,19,MidRepL,L
+Yankees,20,PitcherA,S
