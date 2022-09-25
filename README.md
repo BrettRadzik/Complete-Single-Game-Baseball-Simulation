@@ -2,7 +2,7 @@
 
 How to Use the Complete Single Game Baseball Simulation
 
-Step1: Make sure ALL excel files are downloaded 
+Step1: Make sure ALL excel files are downloaded. There are also several large files on dropbox which can be accessed here https://www.dropbox.com/t/7mJNqWouWn587W40
 
 Step2: Pick Lineups and Pitchers. There are two batting excel files which must be filled out completely. The baseballlineup2 file is about who is on the team. Any player who will be in the lineup must be added with their correct batting hand. Order does not matter for this file. For the batting lineup, go to the baseballlineup file and find the team you wish to simulate and enter the player, batting hand, and position number into the spreadsheet. Some teams are not there since different games are played each day. If the team is not there just add one at the bottom in the same format as every other teams. Team names and players must be typed in exactly as they are in the rest of the format. If you are unsure of a player name check the ID excel page. Some players have a Jr after their names so it can be tricky. Team names are also only one word so it would be RedSox instead of Red Sox. If you want a pitcher to bat just put a pitcherA or pitcherB in the lineup since most pitchers do not have enough at-bats to make the model work. This is the same for any minor league player or hurt player but you would put a MidRepA or MidRepB in there. Just make sure they are on the baseballlineup2 file before putting them in your lineup and that all the A players go on one team and all the B players are on the other team. If you have designator hitters then put their position as 1 in the batting lineup. 
 
